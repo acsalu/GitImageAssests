@@ -1,0 +1,3 @@
+[submodule "GitImageAssests/Assets.xcassets"]
+	path = GitImageAssests/Assets.xcassets
+	url = git@github.com:acsalu/GitXCAssests.git
